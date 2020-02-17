@@ -855,7 +855,7 @@ MonoBehaviour:
     type: 3}
   velocityMult: 12
   _____________________________: 0
-  launchPoint: {fileID: 0}
+  launchPoint: {fileID: 1231489743}
   launchPos: {x: 0, y: 0, z: 0}
   projectile: {fileID: 0}
   aimingMode: 0
